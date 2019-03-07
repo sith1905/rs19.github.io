@@ -34,7 +34,9 @@
     "siteFonts": [],
     "uniqCompNum": 2,
     "versionPublish": "4.9.5",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/3-128x72.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
